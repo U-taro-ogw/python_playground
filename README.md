@@ -22,3 +22,15 @@ polls内のroutes設定
 
 
 </details>
+
+<details>
+  <summary>migrate</summary>
+
+#### migrate時のSQLを確認
+```bash
+$ python manage.py sqlmigrate polls 0001
+```
+
+
+</details>
+
